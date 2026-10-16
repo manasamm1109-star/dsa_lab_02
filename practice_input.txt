@@ -1,0 +1,3 @@
+dog apple dog
+mango apple
+cat dog
